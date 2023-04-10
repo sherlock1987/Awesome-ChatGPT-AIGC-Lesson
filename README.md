@@ -1,12 +1,16 @@
 # ChatGPT-AIGC-Lesson
 
-  * 关于ChatGPT，以及AIGC的学习道路，里面包含的内容很多，有语言模型，还有RLHF，多模态论文等等，本人的公众号是 船长尼莫 ，感兴趣可以关注一下~
+  * 关于ChatGPT，以及AIGC的学习道路，里面包含的内容很多，有语言模型，还有RLHF，多模态论文等等，公众号是 船长尼莫 ，感兴趣可以关注一下~
 
-  * 如何免费体验ChatGPT？发送key到公众号船长尼莫，即可获得免费使用权限。
+  * 如何免费体验ChatGPT？[网站地址](https://chatgpt.lizm.xyz/#/chat/1002)
   
 
 ## 语言模型介绍
 * [大白话介绍语言模型](https://zhuanlan.zhihu.com/p/616900693)
+
+### GPT家族
+   * [GPT-1](https://mp.weixin.qq.com/s?__biz=Mzg4NzcxNzM0Mg==&mid=2247484573&idx=1&sn=ee965f45d685a9c0fa22a851214048b0&chksm=cf87682cf8f0e13a7d5cc1ca9a93c58bb31560c365dd36b2738ac1109df9557a07fb747ca9c2&token=533251867&lang=zh_CN#rd)
+   * [GPT-2](https://mp.weixin.qq.com/s?__biz=Mzg4NzcxNzM0Mg==&mid=2247484582&idx=1&sn=9f77037a30126225d060a0c34f2183d2&chksm=cf876817f8f0e101b51a07359752d469a5ed97aacab28d06dea2ba0a07924277ae5dc41abb0b&token=533251867&lang=zh_CN#rd)
 
 ### ChatGPT
    ChatGPT的训练方式，详细介绍，其中视频的介绍要比文字介绍详细的多
@@ -20,7 +24,6 @@
   ![notebook](ChatGLM.ipynb)
   
   ![python](chatglm.py)
-
 
 
 #### GLM-130B 详细论文讲解
@@ -107,5 +110,7 @@
 
 让我们一起进入AI的时代，共同探索未来！
   
-  ![优惠券](星球优惠券.png)
+  ![宣传海报](星球宣传.jpg)
 
+  
+  ![优惠券](星球优惠券.png)
