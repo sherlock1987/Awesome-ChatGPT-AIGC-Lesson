@@ -11,6 +11,8 @@
 ### GPT家族
    * [GPT-1](https://mp.weixin.qq.com/s?__biz=Mzg4NzcxNzM0Mg==&mid=2247484573&idx=1&sn=ee965f45d685a9c0fa22a851214048b0&chksm=cf87682cf8f0e13a7d5cc1ca9a93c58bb31560c365dd36b2738ac1109df9557a07fb747ca9c2&token=533251867&lang=zh_CN#rd)
    * [GPT-2](https://mp.weixin.qq.com/s?__biz=Mzg4NzcxNzM0Mg==&mid=2247484582&idx=1&sn=9f77037a30126225d060a0c34f2183d2&chksm=cf876817f8f0e101b51a07359752d469a5ed97aacab28d06dea2ba0a07924277ae5dc41abb0b&token=533251867&lang=zh_CN#rd)
+   * [GPT-3](https://mp.weixin.qq.com/s?__biz=Mzg4NzcxNzM0Mg==&mid=2247484598&idx=1&sn=37f8785df6b54ba85e193940fb86c7c4&chksm=cf876807f8f0e1113e4fdc42c30cc572985b43d676ad7a18fba8ab75ba898286d50101b21376&token=1867297293&lang=zh_CN#rd)
+   * [GPT-3.5](https://mp.weixin.qq.com/s?__biz=Mzg4NzcxNzM0Mg==&mid=2247484609&idx=1&sn=9785f559284eb412889f6b7ed57b6d31&chksm=cf876870f8f0e166d4fb0e3b9d87821f02a90cb0289882786f4120c2c09a24f1cbdd2803df28&token=1867297293&lang=zh_CN#rd)
 
 ### ChatGPT
    ChatGPT的训练方式，详细介绍，其中视频的介绍要比文字介绍详细的多
