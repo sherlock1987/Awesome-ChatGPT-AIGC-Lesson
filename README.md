@@ -13,6 +13,8 @@
    * [GPT-2](https://mp.weixin.qq.com/s?__biz=Mzg4NzcxNzM0Mg==&mid=2247484582&idx=1&sn=9f77037a30126225d060a0c34f2183d2&chksm=cf876817f8f0e101b51a07359752d469a5ed97aacab28d06dea2ba0a07924277ae5dc41abb0b&token=533251867&lang=zh_CN#rd)
    * [GPT-3](https://mp.weixin.qq.com/s?__biz=Mzg4NzcxNzM0Mg==&mid=2247484598&idx=1&sn=37f8785df6b54ba85e193940fb86c7c4&chksm=cf876807f8f0e1113e4fdc42c30cc572985b43d676ad7a18fba8ab75ba898286d50101b21376&token=1867297293&lang=zh_CN#rd)
    * [GPT-3.5](https://mp.weixin.qq.com/s?__biz=Mzg4NzcxNzM0Mg==&mid=2247484609&idx=1&sn=9785f559284eb412889f6b7ed57b6d31&chksm=cf876870f8f0e166d4fb0e3b9d87821f02a90cb0289882786f4120c2c09a24f1cbdd2803df28&token=1867297293&lang=zh_CN#rd)
+   * [GPT-3.5中的RLHF详细介绍](https://mp.weixin.qq.com/s?__biz=Mzg4NzcxNzM0Mg==&mid=2247484651&idx=1&sn=d4dce9677ecc8cd2f019e9717dab09b6&chksm=cf87685af8f0e14c98418c78b6fd862f32a971e4ec19ea4ba35e4827020aaf39f8cdd1388fea&token=1047332211&lang=zh_CN#rd)
+
 
 ### ChatGPT
    ChatGPT的训练方式，详细介绍，其中视频的介绍要比文字介绍详细的多
@@ -32,10 +34,9 @@
    * [文字介绍](https://zhuanlan.zhihu.com/p/617701482)
 
 ## 多模态
-### CLIP模型介绍
-   * [文字介绍](https://mp.weixin.qq.com/s?__biz=Mzg4NzcxNzM0Mg==&mid=2247484378&idx=1&sn=ced94475181af0788299d763b0d6cc2c&chksm=cf876f6bf8f0e67dde08e47759e96be8033a3eda272cb0db40b0d2238addfe542ac87a9d7b5c&token=533251867&lang=zh_CN#rd)
-
-   * [视频代码讲解](https://www.zhihu.com/zvideo/1624349435185618944)
+   * [CLIP模型文字介绍](https://mp.weixin.qq.com/s?__biz=Mzg4NzcxNzM0Mg==&mid=2247484378&idx=1&sn=ced94475181af0788299d763b0d6cc2c&chksm=cf876f6bf8f0e67dde08e47759e96be8033a3eda272cb0db40b0d2238addfe542ac87a9d7b5c&token=533251867&lang=zh_CN#rd)
+   * [CLIP视频代码讲解](https://www.zhihu.com/zvideo/1624349435185618944)
+   * [谷歌PaLI](https://mp.weixin.qq.com/s?__biz=Mzg4NzcxNzM0Mg==&mid=2247484663&idx=1&sn=eb022c7e39faf6278c60541206c4124d&chksm=cf876846f8f0e15042218f3d484abaf5b17f091119e4fc2d9a6e52e17514d876828d8a7e9971&token=1047332211&lang=zh_CN#rd)
 
 ## 自然语言处理
  * [NLP概览1](https://mp.weixin.qq.com/s?__biz=Mzg4NzcxNzM0Mg==&mid=2247483868&idx=1&sn=239c833bde9fc660ccc506014d70e4bb&chksm=cf876d6df8f0e47b0221c4f1aa415955ba03ff666395926e39e9cd10faec7670a39efe8053a4&token=533251867&lang=zh_CN#rd)
