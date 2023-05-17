@@ -35,8 +35,8 @@
 
 ## Reinforcement LEarning with Human Feedback
 ### PPO 算法介绍
-   * [文字介绍](https://zhuanlan.zhihu.com/p/617701482](https://zhuanlan.zhihu.com/p/50322028)
-   * [代码介绍](https://zhuanlan.zhihu.com/p/617701482](https://github.com/zhangchuheng123/Reinforcement-Implementation)
+   * [文字介绍](https://zhuanlan.zhihu.com/p/50322028)
+   * [代码介绍](https://github.com/zhangchuheng123/Reinforcement-Implementation)
 
 
 
