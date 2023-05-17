@@ -33,6 +33,13 @@
 #### GLM-130B 详细论文讲解
    * [文字介绍](https://zhuanlan.zhihu.com/p/617701482)
 
+## Reinforcement LEarning with Human Feedback
+### PPO 算法介绍
+   * [文字介绍]([https://zhuanlan.zhihu.com/p/617701482](https://zhuanlan.zhihu.com/p/50322028))
+   * [代码介绍]([https://zhuanlan.zhihu.com/p/617701482](https://github.com/zhangchuheng123/Reinforcement-Implementation))
+
+
+
 ## 多模态
    * [CLIP模型文字介绍](https://mp.weixin.qq.com/s?__biz=Mzg4NzcxNzM0Mg==&mid=2247484378&idx=1&sn=ced94475181af0788299d763b0d6cc2c&chksm=cf876f6bf8f0e67dde08e47759e96be8033a3eda272cb0db40b0d2238addfe542ac87a9d7b5c&token=533251867&lang=zh_CN#rd)
    * [CLIP视频代码讲解](https://www.zhihu.com/zvideo/1624349435185618944)
